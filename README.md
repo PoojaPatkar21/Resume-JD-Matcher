@@ -40,6 +40,11 @@ To comprehend these job descriptions, print them.
    
 
 ## 3. Candidate-Job Matching 
+
+Prepare a txt file of the extracted data as follows:
+JD.txt for JD data
+Resume.txt for extracted resume data
+
 For matching candidates to jobs, NLP is used. The job description and a CV (that's the extracted resume data) from text files is read here.
 Tokenization: These textual data is converted into tokens to give it a meaningful insight.
 A pre-trained model, called DistilBERT model is used here to convert tokenized text into embeddings
