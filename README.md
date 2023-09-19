@@ -25,9 +25,11 @@ The Resume dataset is mounted on google drive and then it is fetched from there.
   Current directory: /content
   
   For the pdf_directory path:
+  
   pdf_directory= 'drive/My Drive/path to the folder containing pdfs/'
   
-  For now, resumes from Information Technology folder are used. 
+  For now, resumes from Information Technology folder are used.
+  
   pdf_directory= 'drive/My Drive/DATA/data/data/INFORMATION-TECHNOLOGY/'
 
 For other domains simply changing the path to the respective folders will do.
